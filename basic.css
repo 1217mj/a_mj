@@ -12,8 +12,6 @@ a:hover{
 #wrapper {
 
 }
-@media all and (min-width:55em) {
-  
 #head {
   display:grid;
   grid-template-columns: 2fr 1fr;
@@ -62,8 +60,8 @@ a:hover{
   padding-bottom:5px;
   border-bottom:1px dashed #24bbb0;
 }
-}
-@media all and (min-width:45em) {
+
+@media all and (max-width:45em) {
   #head {
     display:block;
     text-align:center;
