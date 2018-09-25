@@ -61,7 +61,7 @@ a:hover{
   border-bottom:1px dashed #24bbb0;
 }
 
-@media (max-width:50em) {
+@media only screen and (max-width:760px) {
   #head {
     display:block;
     text-align:center;
