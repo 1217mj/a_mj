@@ -1,7 +1,9 @@
 
 
 body {
+  background-color:#fff;
   margin:0;
+  padding:0;
 }
 a {
   text-decoration:none;
@@ -33,12 +35,10 @@ a:hover{
 }
 #contents_1 {
   font-size:50px;
-  font-family:helvetica;
   padding-left:30%;
 }
 #contents_2 {
   font-size:12px;
-  font-family:helvetica;
   color:#24bbb0;
   padding-left:8%;
   padding-right:8%;
