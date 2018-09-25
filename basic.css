@@ -2,7 +2,6 @@
 
 body {
   background-color:#fff;
-  font: 100%/1.4 "HelveticaNeue", "Helvetica", "Arial", sans-serif;
   margin:0;
   padding:0;
 }
@@ -62,7 +61,7 @@ a:hover{
   border-bottom:1px dashed #24bbb0;
 }
 
-@media screen and (max-width: 768px) {
+@media all and (max-width:768px) {
   #head {
     display:block;
     text-align:center;
