@@ -1,3 +1,5 @@
+
+
 body {
   margin:0;
 }
@@ -9,9 +11,7 @@ a:hover{
   color:#24bbb0;
 }
 
-#wrapper {
 
-}
 #head {
   display:grid;
   grid-template-columns: 2fr 1fr;
@@ -61,7 +61,7 @@ a:hover{
   border-bottom:1px dashed #24bbb0;
 }
 
-@media all and (max-width:45em) {
+@media (max-width:50em) {
   #head {
     display:block;
     text-align:center;
