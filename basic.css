@@ -58,7 +58,7 @@ a:hover{
   padding-bottom:5px;
   border-bottom:1px dashed #24bbb0;
 }
-@media all and (max-width:768px) {
+@media screen and (max-width:600px) {
   #head {
     display:block;
     text-align:center;
